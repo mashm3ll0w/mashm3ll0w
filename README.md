@@ -3,11 +3,6 @@
     <h1>I'm <strong>< Charles \></strong></h1>
 </div>
 
-<div id="what_i_do" align="center">
-    <h2>Software Developer  |  Linux Sys-Admin  |  Hacker  |  Geek</h2>
-</div>
-<br>
-
 <div id="badges" align="center">
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=800020)
@@ -26,7 +21,7 @@ Hi, am Charles, a Linux Sys Admin and an a Full Stack Dev from this side of the 
 
 I enjoy coding in Python and Javascript to make software and using Bash to automate tasks in my day to day admin projects.
 
-When am not coding, I dabble in a lot of ethical hacking and am active on [tryhackme](https://tryhackme.com)
+When am not coding, I dabble in a lot of ethical hacking and am active on [tryhackme](https://tryhackme.com/p/ghostFace)
 <!-- 
 <div id="skill_images" align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript_logo" width="75" >
@@ -36,3 +31,7 @@ When am not coding, I dabble in a lot of ethical hacking and am active on [tryha
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash_logo" width="75" >
 </div> -->
 
+<!-- <div id="what_i_do" align="center">
+    <h2>Software Developer  |  Linux Sys-Admin  |  Hacker  |  Geek</h2>
+</div>
+<br> -->
