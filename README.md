@@ -15,8 +15,8 @@ I specialize in Python and Javascript to make software and using Bash to automat
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=800020) -->
 
 ## Hobbies
-When am not coding, am reading, watching a sci-fi show or learning about Cyber Security and hacking things on **tryhackme**.
+When am not coding, am reading (sci-fi and fantasy novels), watching a good (read, Mr. Robot) show.
 
-Check out my [profile](https://tryhackme.com/p/ghostFace)
+I'm also actively learning about Cyber Security and hacking things on [tryhackme](https://tryhackme.com/). 
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/ghostFace.png" alt="TryHackMe">](https://tryhackme.com/p/ghostFace)
+Check out my [![](https://img.shields.io/badge/thm-tryhackme-informational?style=flat&logo=gnu-bash&logoColor=white&color=800020)](https://tryhackme.com/p/ghostFace) profile.
