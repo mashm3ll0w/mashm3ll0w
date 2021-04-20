@@ -1,3 +1,5 @@
+<img src="./github_header.png">
+
 # Hello, World! <img src="alien.gif" width="30px">
 
 Hi, am Charles, a Full Stack Web Dev and Linux Systems Administrator from Nairobi, Kenya, currently working/serving in the Kenya Army.
