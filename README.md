@@ -4,12 +4,19 @@
 
 Hi, am Charles, a Full Stack Web Dev and Linux Systems Administrator from Nairobi, Kenya, currently working/serving in the Kenya Army.
 
-I specialize in Python and Javascript to make software and using Bash to automate tasks in my day to day admin projects.
-
+I specialize in
+>
+>- [X] **JavaScript - React** - Frontend Web Development
+>
+>- [X] **Python - Django** - Backend Web Development
+>
+>- [X] **Bash** - Task automation
+>
 ## Tools & Tech
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=800020)
