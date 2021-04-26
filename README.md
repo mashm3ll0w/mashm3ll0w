@@ -2,13 +2,13 @@
 
 # Hello, World! <img src="alien.gif" width="30px">
 
-Hi, am Charles, a Full Stack Web Dev and Linux Systems Administrator from Nairobi, Kenya, currently working/serving in the Kenya Army.
+Hi, am Charles, a Full Stack Software Dev and Linux Systems Administrator from Nairobi, Kenya, currently working/serving in the Kenya Army.
 
 I specialize in
 >
->- [X] **JavaScript - React** - Frontend Web Development
+>- [X] **JavaScript - React** - Frontend Development
 >
->- [X] **Python - Django** - Backend Web Development
+>- [X] **Python - Django** - Backend Development
 >
 >- [X] **Bash** - Task automation
 >
