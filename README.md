@@ -10,8 +10,8 @@ I specialize in
 >
 >- [X] **Python - Django** - Backend Development
 >
->- [X] **Bash** - Task automation
->
+>- [X] **Python - Bash** - Scripting & Automation
+
 ## Tools & Tech
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=800020)
