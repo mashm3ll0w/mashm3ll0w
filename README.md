@@ -30,6 +30,8 @@ I'm also actively learning about Cyber Security and hacking things on [tryhackme
 
 Check out my [![](https://img.shields.io/badge/thm-tryhackme-informational?style=flat&logo=gnu-bash&logoColor=white&color=800020)](https://tryhackme.com/p/ghostFace) profile.
 
+I've also welcomed myself into the world of blogging. Check out my [blog](https://mashm3ll0w.github.io)
+
 ## Stats
 
 [![Charles M's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashm3ll0w&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
