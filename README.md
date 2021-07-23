@@ -33,4 +33,4 @@ Check out my [![](https://img.shields.io/badge/thm-tryhackme-informational?style
 ## Stats
 
 [![Charles M's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashm3ll0w&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashm3ll0w&layout=compact&theme=maroongold&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashm3ll0w&layout=compact&theme=maroongold&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
