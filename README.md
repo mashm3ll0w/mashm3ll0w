@@ -1,6 +1,6 @@
 <!-- <img src="./github_header.png"> -->
 
-# Hello World, I'm **Charles** <img src="alien.gif" width="30px">
+# Hello World, I'm **Charles** <img src="alien.gif" height="30px">
 
 I am Full Stack Software Dev and Linux Systems Administrator from Nairobi, Kenya.
 
