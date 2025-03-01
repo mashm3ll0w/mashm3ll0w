@@ -4,7 +4,10 @@
 
 🤖 I am a **Software Developer** and a **Cyber Security Engineer**
 
-📈 This is what I have been doing:
+📈 I've been up to some/no good:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 **tools n tech 🔭**
