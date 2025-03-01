@@ -29,11 +29,6 @@
 ![](https://img.shields.io/badge/CI/CD-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=800020)
 
-**stats 🔭**
-<div style="display: flex; gap: 20px">
+<!-- **stats 🔭**
 
-  [![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashm3ll0w&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashm3ll0w&layout=compact&theme=maroongold&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashm3ll0w&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashm3ll0w&layout=compact&theme=maroongold&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
