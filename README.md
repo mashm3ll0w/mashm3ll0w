@@ -1,8 +1,7 @@
-<!-- <img src="./github_header.png"> -->
-
-# Hello, I'm **Charles** <img src="alien.gif" height="30px">
-
-I'm a Full Stack Dev and Red Teamer from Nairobi, Kenya.
+* 🤪 I am **Charles Swaleh** <img src="alien.gif" height="25px">
+* 🤖 I am a **Software Developer** and a **Cyber Security Engineer**
+* 💻 I have much ❤️ for technology
+* 📈 This is what I have been doing:
 
 ## Tools & Tech 🔭
 >
@@ -13,6 +12,7 @@ I'm a Full Stack Dev and Red Teamer from Nairobi, Kenya.
 >- [X] **Python - Flask** - Backend Development
 >
 >- [X] **Ruby - Ruby on Rails** - Backend Development
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=800020)
