@@ -20,7 +20,7 @@ jobs:
           SHOW_TITLE: true # optional
           BLOCKS: ░▒▓█ # optional
           TIME_RANGE: all_time # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          SHOW_TIME: false # optional
+          SHOW_TOTAL: false # optional
+          SHOW_MASKED_TIME: true # optional
+          STOP_AT_OTHER: false # optional
