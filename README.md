@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 17 April 2025
+From: 28 February 2025 - To: 18 April 2025
 
 Total Time: 131 hrs 16 mins
 
@@ -17,7 +17,7 @@ Python                             ████████████▒░░
 JavaScript                         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
 HTML                               ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
 SQL                                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Bash                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
