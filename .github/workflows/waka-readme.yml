@@ -19,8 +19,19 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           BLOCKS: ░▒▓█ # optional
+          CODE_LANG: python
           TIME_RANGE: all_time # optional
-          SHOW_TIME: false # optional
-          SHOW_TOTAL: false # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
+          LANG_COUNT: 10
+
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: ${{ secrets.NAME }} # optional
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }} # optional
+          AUTHOR_NAME: ${{ secrets.NAME }} # optional
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
