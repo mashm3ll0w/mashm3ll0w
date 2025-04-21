@@ -21,3 +21,4 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_TOTAL_CODE_TIME: False
           SHOW_PROJECTS: False
+          SHOW_COMMIT: False
