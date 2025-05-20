@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2025 - To: 17 May 2025
+From: 28 February 2025 - To: 18 May 2025
 
-Total Time: 182 hrs 4 mins
+Total Time: 182 hrs 23 mins
 
-Python             85 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   47.01 %
-JavaScript         42 hrs 40 mins  ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-HTML               24 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-SQL                10 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Bash               4 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python             85 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   46.93 %
+JavaScript         42 hrs 59 mins  ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+HTML               24 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+SQL                10 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Bash               4 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 TypeScript         3 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 Markdown           2 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 YAML               2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
