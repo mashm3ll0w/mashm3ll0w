@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2025 - To: 24 June 2025
+From: 28 February 2025 - To: 25 June 2025
 
-Total Time: 297 hrs 59 mins
+Total Time: 298 hrs
 
-Python             170 hrs 27 mins ██████████████▒░░░░░░░░░░   57.20 %
+Python             170 hrs 28 mins ██████████████▒░░░░░░░░░░   57.20 %
 JavaScript         45 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
 HTML               34 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
 SQL                21 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
