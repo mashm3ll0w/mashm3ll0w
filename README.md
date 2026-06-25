@@ -1,10 +1,8 @@
-**whoami**
-
 🤪 Hi 👋, I'm **Charles Swaleh** <img src="alien.gif" height="25px">
 
-🤖 I am a **Software Developer** and a **Cyber Security Engineer**
+🤖 I do **Software | DevOps | Red Team | SOC** with a dash of **NOC**
 
-📈 I've been up to some/no good:
+📈 This is what has I've been doing:
 
 <!--START_SECTION:waka-->
 
@@ -28,24 +26,30 @@ Other                      7 hrs 55 mins         ▒░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-**tools n tech 🔭**
+**Tools n Tech 🔭**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=800020)
+![](https://img.shields.io/badge/K8s-RKE2-informational?style=flat&logo=rancher&logoColor=white&color=800020)
+![](https://img.shields.io/badge/K8s-Helm-informational?style=flat&logo=helm&logoColor=white&color=800020)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=800020)
+![](https://img.shields.io/badge/GitOps-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=800020)
+![](https://img.shields.io/badge/SvcMesh-Istio-informational?style=flat&logo=istio&logoColor=white&color=800020)
+![](https://img.shields.io/badge/OIDC-KeyCloak-informational?style=flat&logo=keycloak&logoColor=white&color=800020)
+
+<!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=Ruby&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=800020)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=800020)
-![](https://img.shields.io/badge/CI/CD-Docker-informational?style=flat&logo=docker&logoColor=white&color=800020)
-![](https://img.shields.io/badge/CI/CD-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=800020)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=800020)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=800020) -->
 
 <!-- **stats 🔭**
 
