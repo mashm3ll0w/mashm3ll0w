@@ -28,10 +28,10 @@ jobs:
           LANG_COUNT: 10
 
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: ${{ secrets.NAME }} # optional
-          COMMITTER_EMAIL: ${{ secrets.EMAIL }} # optional
-          AUTHOR_NAME: ${{ secrets.NAME }} # optional
-          AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
+          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          # TARGET_BRANCH: main # optional
+          # TARGET_PATH: README.md # optional
+          # COMMITTER_NAME: ${{ secrets.NAME }} # optional
+          # COMMITTER_EMAIL: ${{ secrets.EMAIL }} # optional
+          # AUTHOR_NAME: ${{ secrets.NAME }} # optional
+          # AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
