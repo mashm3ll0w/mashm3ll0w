@@ -7,20 +7,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2025 - To: 08 July 2026
+From: 28 February 2025 - To: 09 July 2026
 
-Total Time: 744 hrs
+Total Time: 744 hrs 50 mins
 
-Python                     393 hrs 9 mins        █████████████▒░░░░░░░░░░░   52.84 %
-HTML                       87 hrs 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Python                     393 hrs 31 mins       █████████████▒░░░░░░░░░░░   52.83 %
+HTML                       87 hrs 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
 SQL                        50 hrs 42 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-JavaScript                 48 hrs 44 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Markdown                   32 hrs 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-YAML                       32 hrs 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+JavaScript                 48 hrs 44 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Markdown                   32 hrs 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+YAML                       32 hrs 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 Bash                       25 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-TypeScript                 15 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Docker                     10 hrs 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other                      8 hrs 44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript                 16 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Docker                     10 hrs 47 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other                      8 hrs 59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
